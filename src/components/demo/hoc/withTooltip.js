@@ -1,3 +1,4 @@
+// HOC
 import React from 'react'
 
 const withTooltip = ( Component ) => {

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import withTooltip from './withTooltip'
 import queryString from 'query-string'
 
+// use route match.params  location.search
 const ItemB = ( props ) => {
   const paresd = queryString.parse(props.location.search)
   console.log(paresd)

@@ -1,3 +1,36 @@
+## react project demo 
+show useage of react 
+
+
+## 设计模式
+
+#### HOC
+
+#### 函数组件
+
+## react-router
+
+#### props.match 
+    match 的参数
+    isExact
+    params
+    path "name/:id?/:sel"
+    url "name/23"
+#### props.history
+    history
+    go
+    repalce
+    push
+    goback
+
+#### props.location
+    search
+    pathname
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
